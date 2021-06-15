@@ -1,2 +1,2 @@
 # twilio
-Twilio php helper library
+Twilio PHP Helper Library without composer with example code for Programmable SMS and VoiceCall
